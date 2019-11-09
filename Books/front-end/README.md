@@ -3,12 +3,12 @@
 
 ## 谷歌云盘
 
-1. [阮一峰 - ECMAScript 6入门.pdf](https://drive.google.com/file/d/1xHxiQ5kwH7bAF4ru8iCSZyEwOUrcHc-i/view?usp=sharing)
+1. [阮一峰 - ECMAScript 6入门](https://drive.google.com/file/d/1xHxiQ5kwH7bAF4ru8iCSZyEwOUrcHc-i/view?usp=sharing)
 
 
 ## 百度云盘
 
-1. [阮一峰 - ECMAScript 6入门.pdf](https://pan.baidu.com/s/1YjoBEKjcIBl8WWBR3x-01Q)  提取码: `zkn3`
+1. [阮一峰 - ECMAScript 6入门](https://pan.baidu.com/s/1YjoBEKjcIBl8WWBR3x-01Q)  提取码: `zkn3`
 
 
 
