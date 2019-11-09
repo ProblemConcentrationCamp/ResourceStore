@@ -1,2 +1,4 @@
-# BookStore
-Some books about program, system  architecture etc.
+# ResourceStore
+
+There are some resources about it books, it sofetwares etc.
+
